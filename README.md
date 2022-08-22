@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek-pal09&show_icons=true&theme=radical)](https://github.com/Vivek-pal09/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-pal09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
